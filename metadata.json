@@ -1,0 +1,8 @@
+{
+  "name": "Gemini ScrumBoard",
+  "description": "A production-ready Kanban board featuring AI-powered task enhancement, sprint analysis, and smart prioritization using Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
